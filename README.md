@@ -8,13 +8,16 @@
       デザイナー
       <br>
       Hello, world! My name is Fernanda
-      <br>
+    </b>
+    <br>
+    <br>
+    Tenho 18 anos, sou de Fortaleza-CE. Atualmente trabalho como consultora de vendas da Sou Energy.<br>
+    Sou técnica em Redes de Computadores, atualmente cursando graduação em Sistemas e Mídias Digitais,<br>
+    juntamente com estudos focados em tecnologia, linguagens de programação e AWS.
+  </samp>
 </div>
-<div align="center">
-      
+
 <br>
-<br>
-      
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
