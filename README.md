@@ -1,74 +1,171 @@
-<div align="center">
-  <img style="width: 100%; border-radius: 10px 10px 0 0;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&fontSize=70&fontColor=#5170ff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=6,11,20" />
 </div>
 
-<br>
-
 <div align="center">
+
+  ```
+  ██████╗ ███████╗██████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗  █████╗ 
+  ██╔═══╝ ██╔════╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗
+  ████╗   █████╗  ██████╔╝██╔██╗ ██║███████║██╔██╗ ██║██║  ██║███████║
+  ██╔═╝   ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║██╔══██║
+  ██║     ███████╗██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝██║  ██║
+  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+  ```
+
   <samp>
-    <h1>Hi there! I'm Fernanda Dias 👋</h1>
-    <h3 align="center">デザイナー (Designer) & Tech Enthusiast</h3>
+    <b>デザイナー · Designer · Tech Enthusiast</b>
   </samp>
-  <br>
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5170ff&width=800&height=50&size=20&center=true&vCenter=true&lines=I'm+from+Brazil+(Fortaleza-CE);I'm+a+student+of+Digital+Systems+%26+Media;Networks+Technician+%26+Sales+Consultant;Cloud+&+Web+Development+Enthusiast;Be+welcome!" alt="Typing SVG"/>
-  </a>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="./cat.gif" width="180">
   <br><br>
-  <img src="https://img.shields.io/badge/meow_♡-black?style=flat-square" />
-</div>
 
-<br>
-
----
-
-<br>
-
-### 👩🏻‍💻 About Me
-<div align="center">
-  <samp>
-    <b>Tenho 18 anos, sou de Fortaleza-CE.</b><br>
-    Atualmente trabalho como consultora de vendas da <b>Sou Energy</b>.<br>
-    Sou técnica em <b>Redes de Computadores</b> e, no momento, estou cursando graduação em <b>Sistemas e Mídias Digitais</b>.<br>
-    Tenho um grande foco em estudos de tecnologia, linguagens de programação, HTML/CSS e <b>AWS</b>.<br>
-    Além disso, amo o lado visual da criação e atuo como <b>Designer</b>!<br>
-  </samp>
-</div>
-
-<br>
-
-### 🛠️ My Tech Stack & Tools
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,aws,figma,ps,git,github,vscode,linux&theme=dark&perline=10" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hello%2C+world!+I'm+Fernanda+Dias+%F0%9F%91%8B;Fortaleza-CE+%F0%9F%87%A7%F0%9F%87%B7+%7C+18+years+old;Digital+Systems+%26+Media+Student+%F0%9F%8E%93;Networks+Technician+%7C+Sales+Consultant;Cloud+%26+Web+Development+Enthusiast+%E2%98%81%EF%B8%8F;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG"/>
   </a>
+
+  <br>
+
+  <img src="https://media.giphy.com/media/zMx3JZl2DmbJtGLPTd/giphy.gif" width="200" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/meow_♡-171717?style=flat-square&labelColor=171717" />
+
 </div>
 
 <br>
 
-### 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandaddias&show_icons=true&theme=dracula&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=fernandaddias&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3" height="150" alt="Streak Stats" />
+
+```yaml
+Name: Fernanda Dias
+Location: Fortaleza - CE, Brazil 🇧🇷
+Age: 18 years old
+Current Role: Sales Consultant @ Sou Energy
+Education: Digital Systems & Media (Undergraduate)
+Certification: Networks Technician
+Focus Areas: Technology, Programming Languages, AWS Cloud
+Passion: Design & Visual Creation
+```
+
 </div>
 
 <br>
 
-### 📬 Let's Connect!
-<div align="center">
-  <a href="mailto:fernandadomingosdias24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/fernanda-dias-584812392/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/5585988115891"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.instagram.com/fcknand4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<div align="center">
-  <img style="width: 100%; border-radius: 0 0 10px 10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=#5170ff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+<details align="center">
+  <summary>
+    <samp>
+      <b>⚡ More Info</b>
+    </samp>
+  </summary>
+
+  <br>
+
+  ## 🛠️ Tech Stack & Tools
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
+        <br><samp>HTML</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+        <br><samp>CSS</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
+        <br><samp>JavaScript</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" />
+        <br><samp>AWS</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
+        <br><samp>Linux</samp>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
+        <br><samp>Figma</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" />
+        <br><samp>Photoshop</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+        <br><samp>Git</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+        <br><samp>GitHub</samp>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
+        <br><samp>VS Code</samp>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Stats
+
+  <br>
+
+  <div>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=fernandaddias&show_icons=true&theme=dracula&hide_border=true&border_radius=10&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
+    <img width="390" src="https://streak-stats.demolab.com?user=fernandaddias&theme=dracula&hide_border=true&border_radius=10&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" alt="Streak Stats" />
+  </div>
+
+  <br>
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaddias&layout=compact&theme=dracula&hide_border=true&border_radius=10&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages" />
+
+  <br><br>
+
+  ## 📬 Let's Connect!
+
+  <br>
+
+  <a href="mailto:fernandadomingosdias24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-dias-584812392/">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5585988115891">
+    <img src="https://img.shields.io/badge/WhatsApp-171717?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+  <a href="https://www.instagram.com/fcknand4">
+    <img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=fernandaddias&style=flat-square&color=bd93f9&label=Profile+Views" alt="Profile Views" />
+
+  <br><br>
+
+</details>
+
+<br>
+
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
 </div>
