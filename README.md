@@ -60,17 +60,7 @@ Passion: Design & Visual Creation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
 
-## 🏢 Organization
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Consultora-Sou_Energy-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Consultora Sou Energy" />
-  <br><br>
-  <samp>I currently work as a <b>Sales Consultant</b> at <b>Sou Energy</b>.</samp>
-</div>
-
-<br>
 
 <details align="center">
   <summary>
@@ -82,6 +72,16 @@ Passion: Design & Visual Creation
   <div align="center">
 
   <br>
+
+  ## 🏢 Organization
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Consultora-Sou_Energy-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Consultora Sou Energy" />
+  <br><br>
+  <samp>I currently work as a <b>Sales Consultant</b> at <b>Sou Energy</b>.</samp>
+
+  <br><br>
 
   ## 🛠️ Tech Stack & Tools
 
