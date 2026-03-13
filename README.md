@@ -69,6 +69,8 @@ Passion: Design & Visual Creation
     </samp>
   </summary>
 
+  <div align="center">
+
   <br>
 
   ## 🛠️ Tech Stack & Tools
@@ -161,6 +163,8 @@ Passion: Design & Visual Creation
   <img src="https://komarev.com/ghpvc/?username=fernandaddias&style=flat-square&color=bd93f9&label=Profile+Views" alt="Profile Views" />
 
   <br><br>
+
+  </div>
 
 </details>
 
