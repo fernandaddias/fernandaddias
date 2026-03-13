@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/r8qEfFn85EYAAAAC/cat-cats.gif" width="180">
+  <img src="./cat.gif" width="180">
   <br><br>
   <img src="https://img.shields.io/badge/meow_♡-black?style=flat-square" />
 </div>
