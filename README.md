@@ -62,6 +62,16 @@ Passion: Design & Visual Creation
 
 <br>
 
+## 🏢 Organization
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Consultora-Sou_Energy-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Consultora Sou Energy" />
+  <br><br>
+  <samp>I currently work as a <b>Sales Consultant</b> at <b>Sou Energy</b>.</samp>
+</div>
+
+<br>
+
 <details align="center">
   <summary>
     <samp>
