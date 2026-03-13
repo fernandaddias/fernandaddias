@@ -20,7 +20,7 @@
   <br><br>
 
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hello%2C+world!+I'm+Fernanda+Dias+%F0%9F%91%8B;Fortaleza-CE+%F0%9F%87%A7%F0%9F%87%B7+%7C+18+years+old;Digital+Systems+%26+Media+Student+%F0%9F%8E%93;Networks+Technician+%7C+Sales+Consultant;Cloud+%26+Web+Development+Enthusiast+%E2%98%81%EF%B8%8F;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Hello%2C+world!+I'm+Fernanda+Dias+%F0%9F%91%8B;Fortaleza-CE+%F0%9F%87%A7%F0%9F%87%B7+%7C+18+years+old;Digital+Systems+%26+Media+Student+%F0%9F%8E%93;Computer+Network+Technician+%7C+Sales+Consultant;Cloud+%26+Web+Development+Enthusiast+%E2%98%81%EF%B8%8F;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG"/>
   </a>
 
   <br>
@@ -49,7 +49,7 @@ Location: Fortaleza - CE, Brazil 🇧🇷
 Age: 18 years old
 Current Role: Sales Consultant @ Sou Energy
 Education: Digital Systems & Media (Undergraduate)
-Certification: Networks Technician
+Certification: Computer Network Technician
 Focus Areas: Technology, Programming Languages, AWS Cloud
 Passion: Design & Visual Creation
 ```
