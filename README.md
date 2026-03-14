@@ -60,6 +60,46 @@ Passion: Design & Visual Creation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🚀 Project Spotlight
+
+<div align="center">
+
+  <a href="https://github.com/fernandaddias/soundscape-weaver">
+    <img src="https://img.shields.io/badge/New%20Repo-soundscape--weaver-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="soundscape-weaver" />
+  </a>
+
+  <br><br>
+
+  <samp>
+    <b>Soundscape Weaver</b> is my newest project, focused on building a modern web experience with music and AI integrations.
+  </samp>
+
+  <br><br>
+
+</div>
+
+### ✅ What has already been done
+
+- Initial project setup with Vite + React + TypeScript
+- UI foundation with Tailwind CSS and shadcn/ui components
+- Separate backend entry point with Express (`server.ts`)
+- Testing and quality tooling configured (Vitest, Playwright, ESLint)
+- Database and environment structure prepared (`drizzle.config.ts`, `.env.example`)
+
+### 🧩 Main technologies
+
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Express` · `Drizzle ORM`
+
+### 🔜 Next steps
+
+- Improve README inside the project repository with screenshots and architecture details
+- Document setup, API routes, and deployment flow
+- Publish a first stable release with changelog
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 
 <details align="center">
