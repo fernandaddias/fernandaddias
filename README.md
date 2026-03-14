@@ -81,28 +81,6 @@ Passion: Design & Visual Creation
   <samp>I currently work as a <b>Sales Consultant</b> at <b>Sou Energy</b>.</samp>
 
   <br><br>
-  ## 🏆 Featured Projects
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="left" valign="top">
-        <h3>🎵 Soundscape Weaver</h3>
-        <p><b>Status:</b> Active development</p>
-        <p><b>About:</b> Web app with modern UI, AI integrations, and music-focused features.</p>
-        <p><b>Stack:</b> React · TypeScript · Vite · Tailwind · shadcn/ui · Express</p>
-        <ul>
-          <li>Frontend architecture ready</li>
-          <li>Backend entry point configured</li>
-          <li>Testing and lint setup done</li>
-        </ul>
-        <a href="https://github.com/fernandaddias/soundscape-weaver">🔗 Repository</a>
-      </td>
-    </tr>
-  </table>
-
-  <br><br>
 
   ## 🛠️ Tech Stack & Tools
 
@@ -169,6 +147,29 @@ Passion: Design & Visual Creation
   <br>
 
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaddias&layout=compact&theme=dracula&hide_border=true&border_radius=10&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages" />
+
+  <br><br>
+
+  ## 🏆 Featured Projects
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="left" valign="top">
+        <h3>🎵 Soundscape Weaver</h3>
+        <p><b>Status:</b> Active development</p>
+        <p><b>About:</b> Web app with modern UI, AI integrations, and music-focused features.</p>
+        <p><b>Stack:</b> React · TypeScript · Vite · Tailwind · shadcn/ui · Express</p>
+        <ul>
+          <li>Frontend architecture ready</li>
+          <li>Backend entry point configured</li>
+          <li>Testing and lint setup done</li>
+        </ul>
+        <a href="https://github.com/fernandaddias/soundscape-weaver">🔗 Repository</a>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
