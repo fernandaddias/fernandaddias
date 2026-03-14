@@ -87,7 +87,7 @@ Passion: Design & Visual Creation
 
   <table>
     <tr>
-      <td align="left" width="50%" valign="top">
+      <td align="left" valign="top">
         <h3>🎵 Soundscape Weaver</h3>
         <p><b>Status:</b> Active development</p>
         <p><b>About:</b> Web app with modern UI, AI integrations, and music-focused features.</p>
@@ -98,44 +98,6 @@ Passion: Design & Visual Creation
           <li>Testing and lint setup done</li>
         </ul>
         <a href="https://github.com/fernandaddias/soundscape-weaver">🔗 Repository</a>
-      </td>
-      <td align="left" width="50%" valign="top">
-        <h3>🍗 Frango Fácil</h3>
-        <p><b>Status:</b> Private / case-study</p>
-        <p><b>About:</b> Delivery platform concept with authentication and order flow.</p>
-        <p><b>Stack:</b> React · TypeScript · Tailwind · Supabase</p>
-        <ul>
-          <li>Secure auth flow proposal</li>
-          <li>Cart and order management concept</li>
-          <li>Real-time tracking direction</li>
-        </ul>
-        <span>🔒 Repository visibility coming soon</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="50%" valign="top">
-        <h3>💰 Cofre de Metas</h3>
-        <p><b>Status:</b> In progress</p>
-        <p><b>About:</b> Financial goals tracker with planning and progress monitoring.</p>
-        <p><b>Stack:</b> React · TypeScript · Vite · Tailwind · shadcn/ui</p>
-        <ul>
-          <li>Goal and projection modeling</li>
-          <li>Recurring payments planning</li>
-          <li>Collaborative sharing idea</li>
-        </ul>
-        <span>🧪 Demo under development</span>
-      </td>
-      <td align="left" width="50%" valign="top">
-        <h3>📊 Dashboard Vendas</h3>
-        <p><b>Status:</b> In progress</p>
-        <p><b>About:</b> Interactive sales dashboard for quick business insights.</p>
-        <p><b>Stack:</b> Python · Streamlit · Pandas</p>
-        <ul>
-          <li>Filters and KPI visualization</li>
-          <li>Fast analytical views</li>
-          <li>Decision support structure</li>
-        </ul>
-        <span>🧪 Demo under development</span>
       </td>
     </tr>
   </table>
