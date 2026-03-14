@@ -60,46 +60,6 @@ Passion: Design & Visual Creation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Project Spotlight
-
-<div align="center">
-
-  <a href="https://github.com/fernandaddias/soundscape-weaver">
-    <img src="https://img.shields.io/badge/New%20Repo-soundscape--weaver-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="soundscape-weaver" />
-  </a>
-
-  <br><br>
-
-  <samp>
-    <b>Soundscape Weaver</b> is my newest project, focused on building a modern web experience with music and AI integrations.
-  </samp>
-
-  <br><br>
-
-</div>
-
-### ✅ What has already been done
-
-- Initial project setup with Vite + React + TypeScript
-- UI foundation with Tailwind CSS and shadcn/ui components
-- Separate backend entry point with Express (`server.ts`)
-- Testing and quality tooling configured (Vitest, Playwright, ESLint)
-- Database and environment structure prepared (`drizzle.config.ts`, `.env.example`)
-
-### 🧩 Main technologies
-
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Express` · `Drizzle ORM`
-
-### 🔜 Next steps
-
-- Improve README inside the project repository with screenshots and architecture details
-- Document setup, API routes, and deployment flow
-- Publish a first stable release with changelog
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 
 <details align="center">
@@ -108,7 +68,6 @@ Passion: Design & Visual Creation
       <b>⚡ More Info</b>
     </samp>
   </summary>
-
   <div align="center">
 
   <br>
@@ -120,6 +79,66 @@ Passion: Design & Visual Creation
   <img src="https://img.shields.io/badge/Consultora-Sou_Energy-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Consultora Sou Energy" />
   <br><br>
   <samp>I currently work as a <b>Sales Consultant</b> at <b>Sou Energy</b>.</samp>
+
+  <br><br>
+  ## 🏆 Featured Projects
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="left" width="50%" valign="top">
+        <h3>🎵 Soundscape Weaver</h3>
+        <p><b>Status:</b> Active development</p>
+        <p><b>About:</b> Web app with modern UI, AI integrations, and music-focused features.</p>
+        <p><b>Stack:</b> React · TypeScript · Vite · Tailwind · shadcn/ui · Express</p>
+        <ul>
+          <li>Frontend architecture ready</li>
+          <li>Backend entry point configured</li>
+          <li>Testing and lint setup done</li>
+        </ul>
+        <a href="https://github.com/fernandaddias/soundscape-weaver">🔗 Repository</a>
+      </td>
+      <td align="left" width="50%" valign="top">
+        <h3>🍗 Frango Fácil</h3>
+        <p><b>Status:</b> Private / case-study</p>
+        <p><b>About:</b> Delivery platform concept with authentication and order flow.</p>
+        <p><b>Stack:</b> React · TypeScript · Tailwind · Supabase</p>
+        <ul>
+          <li>Secure auth flow proposal</li>
+          <li>Cart and order management concept</li>
+          <li>Real-time tracking direction</li>
+        </ul>
+        <span>🔒 Repository visibility coming soon</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%" valign="top">
+        <h3>💰 Cofre de Metas</h3>
+        <p><b>Status:</b> In progress</p>
+        <p><b>About:</b> Financial goals tracker with planning and progress monitoring.</p>
+        <p><b>Stack:</b> React · TypeScript · Vite · Tailwind · shadcn/ui</p>
+        <ul>
+          <li>Goal and projection modeling</li>
+          <li>Recurring payments planning</li>
+          <li>Collaborative sharing idea</li>
+        </ul>
+        <span>🧪 Demo under development</span>
+      </td>
+      <td align="left" width="50%" valign="top">
+        <h3>📊 Dashboard Vendas</h3>
+        <p><b>Status:</b> In progress</p>
+        <p><b>About:</b> Interactive sales dashboard for quick business insights.</p>
+        <p><b>Stack:</b> Python · Streamlit · Pandas</p>
+        <ul>
+          <li>Filters and KPI visualization</li>
+          <li>Fast analytical views</li>
+          <li>Decision support structure</li>
+        </ul>
+        <span>🧪 Demo under development</span>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
